@@ -1,8 +1,8 @@
 # JavaAPI_SimilarityProject
 
-##Object Orientated Programming
+# Object Orientated Programming
 
-##Java Similarity Project
+# Java Similarity Project
 
 Full project available on github and can easily be cloned or downloaded
 by using the following link. 
